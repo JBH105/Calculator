@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.baidu.openrasp:rhino:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.openrasp/rhino/1.0/39442d1d5f2853279b454793977d9a4b9b56855f/rhino-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.openrasp/rhino/1.0/f44cb9d7dc10e12c1ae48dc47e0925727cd2a06d/rhino-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.openrasp/rhino/1.0/77d6ac722e57b91cc2f830fac8507a379beaf366/rhino-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
