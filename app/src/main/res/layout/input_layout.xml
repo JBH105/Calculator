@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text=""
-        android:textSize="60sp"
+        android:textSize="50sp"
         android:gravity="end"
         android:padding="10dp"
         android:background="@color/black"
